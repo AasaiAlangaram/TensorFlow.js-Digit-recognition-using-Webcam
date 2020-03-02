@@ -1,4 +1,5 @@
 # TensorFlow.js-Digit-recognition-using-Webcam
+:computer: :camera: :bowtie:
 Build a complete web site that uses TensorFlow.js, capturing data from the web cam, and re-training mobilenet to recognize One, Two &amp; Three gestures.
 
 I did some background editing to hide the shirts behinds me after I took the snap.
