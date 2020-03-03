@@ -3,7 +3,7 @@
 :computer: :camera: :bowtie:
 Build a complete web site that uses TensorFlow.js, capturing data from the web cam, and re-training mobilenet to recognize One, Two &amp; Three gestures.
 
-Software Needed: :point_down:
+Dependencies: :point_down:
 ***
 - [Brackets](http://brackets.io/) - To edit HTML file
 - [Web Server for Chrome](https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb?hl=en) -  In javascript every call has to be done through and HTTP request. Therefore, even if you have your files locally, you can't just load them directly, you have to make an HTTP request to those files. This is what the Web Server for Chrome App is used for.
