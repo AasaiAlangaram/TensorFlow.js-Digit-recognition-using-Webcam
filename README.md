@@ -11,5 +11,7 @@ Dependencies: :point_down:
 
 This is the sample snapped images. Did some background editing to hide the shirts behinds me after I took the snap.
 
+Snap 1: Webcam captures two gesture and it correctly predicts two.
+
 ![Sample Image](https://github.com/AasaiAlangaram/TensorFlow.js-Digit-recognition-using-Webcam/blob/master/Image/TwoSnip.png)
 ![Second Image](https://github.com/AasaiAlangaram/TensorFlow.js-Digit-recognition-using-Webcam/blob/master/Image/threesnip.png)
