@@ -1,5 +1,8 @@
 # TensorFlow.js-Digit-recognition
 ***
+Thanks to DeepLearning.ai and laurence moroney for this wonderful course.
+[Specialization Link](https://www.coursera.org/specializations/tensorflow-data-and-deployment?)
+
 :computer: :camera: :bowtie:
 Build a complete web site that uses TensorFlow.js, capturing data from the web cam, and re-training mobilenet to recognize One, Two &amp; Three gestures.
 
